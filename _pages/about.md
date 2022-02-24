@@ -16,4 +16,4 @@ I'm interested in the intersection between voluntary disclosure and information 
 
 Prior to joining the Ph.D. program at Boston College, I completed a master of accountancy at Brigham Young University where I also received a Bachelor of Science in accounting and a minor in economics.
 
-I spend my free time with my wife and three-year old son and playing any sport. I recently completed my first marathon and one day soon I hope to compete in the Boston Marathon.
+I spend my free time with my wife, three-year old son, and new-born daughter. When I'm not with them or working, I am playing any sport. I recently completed my first marathon and one day soon I hope to compete in the Boston Marathon.
