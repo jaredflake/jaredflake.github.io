@@ -94,7 +94,7 @@ author:
   university       : "BC"
   pubmed           : #""
   googlescholar    : #""
-  email            : "flakej@bc.edu"
+  email            : <a href="mailto:flakej@bc.edu">flakej@bc.edu</a>
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
