@@ -1,1 +1,1 @@
-A github site about me using academicpages/academicpages.github.io
+A github page all about me. Setup using academicpages/academicpages.github.io

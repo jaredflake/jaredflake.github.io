@@ -9,51 +9,37 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+<a href="https://drive.google.com/file/d/18vy-f7k65V6eDNO37GUU6h1JD6dMJurx/view?usp=sharing" target="_blank">View in browser</a>
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+<!-- ## Dissertation Committee
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+**Mark Bradshaw** (Chair) <br>
+*Chairperson and Professor of Accounting*<br>
+Boston College, Carroll School of Management<br>
++1 617-552-3831<br>
+<a href="mailto:mark.bradshaw@bc.edu">mark.bradshaw@bc.edu</a>
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+**Lian Fen Lee** <br>
+*Associate Professor of Accounting*<br>
+Boston College, Carroll School of Management <br>
++1 617-552-3780<br>
+<a href="mailto:lianfen.lee@bc.edu">lianfen.lee@bc.edu</a>
+
+**Miao Liu** <br>
+*Assistant Professor of Accounting*<br>
+Boston College, Carroll School of Management <br>
++1 917-392-5887<br>
+<a href="mailto:miao.Liu@bc.edu">miao.Liu@bc.edu</a>
+ -->
+<!-- or maybe??
+
+<embed src="https://drive.google.com/file/d/1Ozx5GoYW8F_RxdKZ21ni9gkerSDIeU9q/view?usp=sharing" type="application/pdf">
+ -->
+
+<object data="/files/flake_jared_cv.pdf" type="application/pdf" width="500px" height="500px"></object>
+
+<!-- <object data="https://drive.google.com/file/d/1Ozx5GoYW8F_RxdKZ21ni9gkerSDIeU9q/view?usp=sharing" type="application/pdf" width="700px" height="700px">
+    <embed src="https://drive.google.com/file/d/1Ozx5GoYW8F_RxdKZ21ni9gkerSDIeU9q/view?usp=sharing">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://drive.google.com/file/d/1Ozx5GoYW8F_RxdKZ21ni9gkerSDIeU9q/view?usp=sharing">Download PDF</a>.</p>
+    </embed>
+</object> -->
