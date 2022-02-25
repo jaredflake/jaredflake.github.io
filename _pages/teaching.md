@@ -13,7 +13,7 @@ author_profile: true
 Dive, Dissect and Decide with Big Business Data (ACCT 6640) - 2020, 2021, 2022
 
 * Developed and taught a statistics review
-* Taught an introduction to web scraping in Python to calculate 10-K readability measure (fog) as in Li (2008)
+* Taught an introduction to web scraping in Python to calculate 10-K readability as in Li (2008)
 
 Financial Accounting Standards and Theory (ACCT 3301) - 2020, 2021
 
