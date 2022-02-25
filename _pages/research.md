@@ -19,6 +19,8 @@ Dissertation Committee: Professors Mark Bradshaw (chair), Lian Fen Lee, and Miao
 ### *"Predictability of Analyst Stock Recommendation Revisions"* with Mark Bradshaw and Mark Piorkowski
 Summary: On average, analysts’ stock recommendation revisions have immediate effects on stock prices. However, recent research indicates that only a small subset of recommendations are influential in the sense that they are associated with significant returns. Given the relative infrequency of recommendation revisions, we predict that analysts signal future recommendation revisions through changes in the tone of sequential research reports, which preempts market reactions when revisions are announced. We find that the signed change in tone of analysts’ reports is positively associated with future recommendation revisions. Using the change in research report tone and other determinants, we construct a measure of the likelihood of a recommendation revision. This predictability measure is associated with attenuated market reactions to recommendation upgrades and a lower likelihood that the upgrades are classified as influential. We also find that our recommendation revision prediction model is better at predicting upgrades than downgrades and has similar performance to fraud prediction models in the literature. 
 
+Presented at BYU Accounting Symposium - 2021 and FARS Midyear Meeting - 2021
+
 <!-- [View in Browser](https://drive.google.com/file/d/1FP1Nj2xefm-u8ycFux1_6bbDXm2ay3Du/view?usp=sharing) -->
 
 <!-- [Download]() -->
