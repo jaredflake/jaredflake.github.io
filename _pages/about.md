@@ -7,6 +7,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
+
+
 I am a fourth-year accounting Ph.D.  at Boston College, Carroll School of Management. I will be on the 2022-2023 academic job market.
 
 I'm interested in the intersection between voluntary disclosure and information intermediaries, particularly the interactions between management and sell-side equity research analysts. I am particularly interested in the determinants of firms’ information environments and the efficient allocation of capital.
