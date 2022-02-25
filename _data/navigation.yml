@@ -12,8 +12,8 @@ main:
   # - title: "Data"
   #   url: /data/
   
-  - title: "About Me"
-    url: /jared/
+ # - title: "About Me"
+ #   url: /jared/
     
   # - title: "Guide"
   #   url: /markdown/
