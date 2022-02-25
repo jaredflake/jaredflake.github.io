@@ -17,7 +17,7 @@ Financial Accounting Standards and Theory (ACCT 3301) - 2020, 2021
 Managerial Cost Analysis (ACCT 3307) - 2019
 
 ### Teaching Assistant (@BYU)
-<!--#### BYU
+<!--#### BYU -->
 Corporate Finance for MAcc (Fin 520) - 2017
 
 
