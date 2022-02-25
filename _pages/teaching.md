@@ -12,6 +12,8 @@ author_profile: true
 
 Dive, Dissect and Decide with Big Business Data (ACCT 6640) - 2020, 2021, 2022
 
+* Developed and taught a statistics review and taught an introduction to web scraping in Python.
+
 Financial Accounting Standards and Theory (ACCT 3301) - 2020, 2021
 
 Managerial Cost Analysis (ACCT 3307) - 2019
