@@ -20,4 +20,6 @@ Managerial Cost Analysis (ACCT 3307) - 2019
 <!--#### BYU -->
 Corporate Finance for MAcc (Fin 520) - 2017
 
+Economic Principles and Problems (Econ 110) - 2015
+
 
