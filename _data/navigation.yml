@@ -9,8 +9,8 @@ main:
   - title: "CV"
     url: /cv/
     
-  # - title: "Data"
-  #   url: /data/
+  - title: "Code & Data"
+    url: /code_data/
   
  # - title: "About Me"
  #   url: /jared/
