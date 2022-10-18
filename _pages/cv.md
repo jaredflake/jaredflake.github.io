@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-<a href="https://drive.google.com/file/d/18vy-f7k65V6eDNO37GUU6h1JD6dMJurx/view?usp=sharing" target="_blank">View in browser</a>
+<a href="https://drive.google.com/file/d/18vy-f7k65V6eDNO37GUU6h1JD6dMJurx/view?usp=sharing](https://drive.google.com/file/d/13etEzFxFOz6mLLQteP9Bq4Oo6w-61VO_/view?usp=sharing)" target="_blank">View in browser</a>
 
 <!-- ## Dissertation Committee
 
