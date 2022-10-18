@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-<a href="https://drive.google.com/file/d/18vy-f7k65V6eDNO37GUU6h1JD6dMJurx/view?usp=sharing" target="_blank">View in browser</a>
+<a href="https://drive.google.com/file/d/18vy-f7k65V6eDNO37GUU6h1JD6dMJurx/view?usp=sharing](https://drive.google.com/file/d/13etEzFxFOz6mLLQteP9Bq4Oo6w-61VO_/view?usp=sharing)" target="_blank">View in browser</a>
 
 <!-- ## Dissertation Committee
 
@@ -36,7 +36,7 @@ Boston College, Carroll School of Management <br>
 <embed src="https://drive.google.com/file/d/1Ozx5GoYW8F_RxdKZ21ni9gkerSDIeU9q/view?usp=sharing" type="application/pdf">
  -->
 
-<object data="/files/flake-jared-cv.pdf" type="application/pdf" width="500px" height="500px"></object>
+<object data="/files/Flake_Jared_CV.pdf" type="application/pdf" width="500px" height="500px"></object>
 
 <!-- <object data="https://drive.google.com/file/d/1Ozx5GoYW8F_RxdKZ21ni9gkerSDIeU9q/view?usp=sharing" type="application/pdf" width="700px" height="700px">
     <embed src="https://drive.google.com/file/d/1Ozx5GoYW8F_RxdKZ21ni9gkerSDIeU9q/view?usp=sharing">
