@@ -11,7 +11,7 @@ redirect_from:
 
 I am a fifth-year accounting Ph.D. candidate at Boston College, Carroll School of Management. I am on the 2022-2023 academic job market.
 
-I'm interested in the intersection of voluntary disclosure and information intermediaries, particularly in the incentives and consequences around managers' disclosure choices and managers interactions with sell-side analysts and investors. I seek to understand the determinants of firms’ information environments and the efficient allocation of capital.
+I'm interested in the intersection of voluntary disclosure and information intermediaries, particularly in the incentives and consequences around managers' (1) disclosure choices and (2) interactions with sell-side analysts and investors. I seek to understand the determinants of firms’ information environments and the efficient allocation of capital.
 
 Prior to joining the Ph.D. program at Boston College, I completed the Master's of Accountancy at Brigham Young University where I also received a Bachelor of Science in accounting and a minor in economics.
 
