@@ -13,11 +13,15 @@ author_profile: true
 
 ### References
 
+I have found the following resources helpful.
+
 #### *NLP*
 
 <a href="https://sraf.nd.edu/" target="_blank">LM Dictionary and others</a>
 
 <a href="https://huggingface.co/yiyanghkust" target="_blank">FinBERT - Model trained for classifying financial texts
+
+<a href="https://github.com/iangow/ling_features" target="_blank">Linguistic Feature of Conference Calls from Gow, Larcker, and Zakolyukina 2021
 
 #### *Eric So Data Resources*
 
