@@ -26,3 +26,6 @@ I have found the following resources helpful.
 #### *Eric So Data Resources*
 
 <a href="https://mitmgmtfaculty.mit.edu/eso/data-library/" target="_blank">Eric So Data</a>
+
+#### *Hoberg-Phillips Data Library*
+<a href="https://hobergphillips.tuck.dartmouth.edu/" target="_blank">Hoberg-Phillips Data</a>
