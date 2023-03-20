@@ -7,13 +7,15 @@ author_profile: true
 
 ### *Capital IQ Transcripts - IBES Analyst Linking Table*
 
+This linking table is a joint effort with <a href="https://kelley.iu.edu/faculty-research/faculty-directory/profile.html?id=MPIORKOW"="_blank">Mark Piorkowski</a> to link analysts from I/B/E/S and Capital IQ transcripts.
+
 <a href="https://github.com/j4ffle/CapIQ_IBES_Match" target="_blank">View on GitHub</a>
 -->
 <!-- [Download]() -->
 
 ### References
 
-I have found the following resources helpful.
+I have found the fowllowing resources from others useful in my research. In case they might be helpful for you, I reference them below:
 
 #### *NLP*
 
