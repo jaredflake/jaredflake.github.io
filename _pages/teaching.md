@@ -8,6 +8,7 @@ author_profile: true
 ### Visiting Assistant Professor (@ Northeastern University)
 
 Financial Accounting (ACCT 1201) - 2 Sections Fall 2023
+
 Managerial Accounting (ACCT 2301) - 1 Section Fall 2023, 2 Sections Spring 2024
 
 <!-- Summary from teaching statement -->
