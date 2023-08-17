@@ -15,6 +15,8 @@ Managerial Accounting (ACCT 2301) - 1 Section Fall 2023, 2 Sections Spring 2024
 
 <!-- #### MIT -->
 
+Introduction to Financial Accounting - 2022, 2023
+
 Dive, Dissect and Decide with Big Business Data (ACCT 6640) - 2020, 2021, 2022
 
 * Developed and taught a statistics review
