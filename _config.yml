@@ -13,7 +13,7 @@ locale                   : "en-US"
 title                    : "Home"
 title_separator          : "-"
 name                     : &name "Jared Flake"
-description              : &description "PhD Candidate in Accounting - Boston College, Carroll School of Management"
+description              : &description "Visiting Assistant Professor in Accounting - Northeastern University, D'Amore-McKim School of Business"
 url                      : https://jaredflake.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "j4ffle.github.io"
@@ -88,13 +88,13 @@ analytics:
 author:
   name             : "Jared Flake"
   avatar           : "jared.jpg" 
-  bio              : "PhD Candidate in Accounting @ Boston College"
-  location         : "Chestnut Hill, MA"
+  bio              : "Visiting Assistant Professor in Accounting @ Northeastern University"
+  location         : "Boston, MA"
   employer         :
-  university       : "BC"
+  university       : "Northeastern University"
   pubmed           : #""
   googlescholar    : #""
-  email            : "flakej@bc.edu"
+  email            : "j.flake@northeastern.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -122,7 +122,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  school           : "https://www.bc.edu/bc-web/schools/carroll-school/graduate/phd-programs/phd-accounting.html"
+  school           : "https://damore-mckim.northeastern.edu/people/jared-flake/"
 
 
 # Reading Files
