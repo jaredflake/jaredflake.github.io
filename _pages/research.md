@@ -30,7 +30,7 @@ Abstract: On average, analysts’ stock recommendation revisions have immediate 
 
 Presented at BYU Accounting Research Symposium 2021, FARS Midyear Meeting 2022 (by coauthor), Deakin University 2022 (by coauthor), CeFARR 3rd Analyst Research Conference 2022 (by coauthor)
 
-### *"Analysts’ Role in Managerial Learning: Evidence from Analyst Activity around M&A Announcements"* with Yang Cao and Miao Liu
+### *"The Credibility of Complex and Evasive Answers in Conference Calls: a Real-time Market Response Approach"* with Yang Cao and Miao Liu
 
 Paper available upon request.
 
