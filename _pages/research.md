@@ -9,10 +9,10 @@ author_profile: true
 
 Paper available upon request.
 
-Abstract: Managers tend to prioritize questions from favorable analysts during earnings announcement conference calls, reinforcing analysts’ incentives to be optimistic. However, managers also interact with unfavorable analysts on calls and when they do, absolute announcement returns are larger. I seek to understand why managers interact with unfavorable analysts. I find the negative views of unfavorable analysts attenuate after interactions with managers during earnings calls. Additionally, the stock price response is stronger for forecasts from managers who regularly interact with unfavorable analysts, consistent with enhanced credibility of these managers. Finally, I use peer firm restatement announcements as exogenous shocks to investors’ assessment of a firm’s accounting quality. I find that non-restating firms with managers who regularly interact with unfavorable analysts experience attenuated negative returns relative to non-restating peers. Overall, my findings are consistent with managers’ interactions with unfavorable analysts providing significant benefits to the firm, such as resolving concerns and increasing investors’ perceptions of manager credibility.
+Managers prioritize questions from favorable analysts during earnings announcement conference calls, reinforcing analysts’ incentives to be optimistic. However, managers also interact with unfavorable analysts on calls, and this study examines why managers engage in these interactions by exploring their consequences. I propose two non-mutually exclusive possibilities, that managers directly address concerns of unfavorable analysts and/or develop a reputation for credibility. I document evidence consistent with both. First, unfavorable analysts attenuate their negative views after their interactions with managers. Second, price responses to management forecasts are stronger for managers who regularly interact with unfavorable analysts, consistent with enhanced credibility of these managers. Also, because not all managers forecast, I use peer firm restatement announcements as exogenous shocks to investors’ assessment of a firm’s accounting quality, and I find that nonrestating firms with managers who regularly interact with unfavorable analysts experience attenuated negative returns relative to other nonrestating peers. Overall, the findings are consistent with managers’ interactions with unfavorable analysts providing significant benefits to the firm.
 
 Dissertation Committee: Professors Mark Bradshaw (chair), Lian Fen Lee, and Miao Liu
-Presented at BYU Accounting Research Symposium 2022, AAA/Deloitte Foundation/J Michael Cook 2022 Doctoral Consortium, Boston College 2022
+Presented at Indiana University, the 2023 AAA Annual Meeting, BYU Accounting Research Symposium 2022, AAA/Deloitte Foundation/J Michael Cook 2022 Doctoral Consortium, Boston College 2022
 
 <!-- *Available upon request* -->
 <!--
@@ -22,14 +22,21 @@ Presented at BYU Accounting Research Symposium 2022, AAA/Deloitte Foundation/J M
 
 ### *"Predictability of Analyst Stock Recommendation Revisions"* with Mark Bradshaw and Mark Piorkowski
 
+Under review at the *Journal of Accounting and Economics*
+
 Paper available upon request.
 
 Abstract: On average, analysts’ stock recommendation revisions have immediate effects on stock prices. However, recent research indicates that only a small subset of recommendations are influential in the sense that they are associated with significant returns. Given the relative infrequency of recommendation revisions compared to other analyst output, we expect that analysts predictably signal future recommendation revisions through changes in the tone of sequential research reports and quantitative forecasts. Consistent with our expectation, we find that future recommendation revisions are positively associated with the signed change in analyst report tone, expected returns implied from target prices, and target price revisions. To test whether the predictability of recommendation revisions preempts market reactions when revisions are announced, we construct a predictability measure using changes in research report tone, analysts’ quantitative output, and firm characteristics. We find that our predictability measure is associated with attenuated market reactions to recommendation upgrades and a lower likelihood that the upgrades are classified as influential. We also find that our recommendation revision prediction model is better at predicting upgrades than downgrades and has similar performance to prediction models in other settings in the literature predicting rare events, such as fraud prediction models.
 
 Presented at BYU Accounting Research Symposium 2021, FARS Midyear Meeting 2022 (by coauthor), Deakin University 2022 (by coauthor), CeFARR 3rd Analyst Research Conference 2022 (by coauthor)
 
-### *"Analysts’ Role in Managerial Learning: Evidence from Analyst Activity around M&A Announcements"* with Farzana Afrin
+### *"Analysts’ Role in Managerial Learning: Evidence from Analyst Activity around M&A Announcements"* with Yang Cao and Miao Liu
 
+Paper available upon request.
+
+We study how managers can credibly communicate complex or the absence of information during earnings calls. We match granular time-stamped earnings call conversations with high-frequency trading data, resulting in a novel dataset that enables us to examine immediate real-time market reactions to distinct linguistic features within conversations between managers and analysts. We find that improved agency considerations, characterized by higher manager ownership and lower financial distress, bolsters managers' credibility when disseminating complex information. However, these measures offer limited efficacy in conveying non-information. Conversely, establishing a transparent disclosure reputation — evidenced by more accurate management forecasts and proactively engaging with bearish analysts — proves to be a robust alternative strategy for establishing credibility in communicating both complex and absent information. Our study sheds light on strategies that managers can adopt to ensure credible communication within the dynamic context of real-time scenarios.
+
+### *"Analysts’ Role in Managerial Learning: Evidence from Analyst Activity around M&A Announcements"* with Farzana Afrin
 
 Paper available upon request.
 
