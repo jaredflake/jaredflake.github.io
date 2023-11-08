@@ -5,14 +5,15 @@ permalink: /teaching/
 author_profile: true
 ---
 
-### Visiting Assistant Professor (@ Northeastern University)
+### Visiting Assistant Professor (Northeastern University)
 
 Financial Accounting (ACCT 1201) - 2 Sections Fall 2023
+* Rating of 4.20 of 5.00
 
 Managerial Accounting (ACCT 2301) - 1 Section Fall 2023, 2 Sections Spring 2024
 
 <!-- Summary from teaching statement -->
-### Teaching Assistant (@ BC)
+### Teaching Assistant (Boston College)
 
 <!-- #### MIT -->
 
@@ -27,7 +28,7 @@ Financial Accounting Standards and Theory (ACCT 3301) - 2020, 2021
 
 Managerial Cost Analysis (ACCT 3307) - 2019
 
-### Teaching Assistant (@BYU)
+### Teaching Assistant (Brigham Young University)
 <!--#### BYU -->
 Corporate Finance for MAcc (Fin 520) - 2017
 
