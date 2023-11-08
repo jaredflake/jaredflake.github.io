@@ -16,8 +16,6 @@ Managers prioritize favorable analysts during earnings calls, reinforcing analys
 Dissertation Committee: Professors Mark Bradshaw (chair), Lian Fen Lee, and Miao Liu
 Presented at Indiana University, Boston College, the 2023 AAA Annual Meeting, BYU Accounting Research Symposium 2022, and the AAA/Deloitte Foundation/J Michael Cook 2022 Doctoral Consortium
 
-the 2023 AAA Annual Meeting, Boston College, Indiana University, the 2022 AAA/Deloitte Foundation/J. Michael Cook Doctoral Consortium, and the 2022 BYU Accounting Research Symposium
-
 <!-- *Available upon request* -->
 <!--
 <a href="https://drive.google.com/file/d/1PRcn4yPFmbgGK4WDT11AgoF1TSsQNvfK/view?usp=sharing" target="_blank">View in Browser</a>
