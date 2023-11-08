@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-<a href="https://www.dropbox.com/s/lroew7p6cpyynaw/flake-jared-cv.pdf?dl=0" target="_blank">View in browser</a>
+<a href="https://www.dropbox.com/scl/fi/gsfifjdzl0b26ctwmhurd/flake-jared-cv.pdf?rlkey=v2w4xt4rpcsjvjtxbosppl1qx&dl=0" target="_blank">View in browser</a>
 
 <!-- ## Dissertation Committee
 
