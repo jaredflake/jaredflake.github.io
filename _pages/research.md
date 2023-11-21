@@ -24,6 +24,8 @@ Presented at Indiana University, Boston College, the 2023 AAA Annual Meeting, BY
 
 ### *"Predictability of Analyst Stock Recommendation Revisions"* with Mark Bradshaw and Mark Piorkowski
 
+Preparing for submission.
+
 Paper available upon request.
 
 On average, analysts’ stock recommendation revisions have immediate effects on stock prices. However, recent research suggests that only a small subset of recommendations are influential in the sense that they are associated with significant short-window returns. We attempt to reconcile these findings by examining the predictability of recommendation revisions. Because analysts experience frictions in frequently revising recommendations, we predict that analysts signal future revisions through changes in the tone and quantitative forecasts of sequential reiteration reports, possibly preempting market reactions to subsequent revisions. Indeed, future recommendation revisions are positively associated with the signed change in analyst report tone, the level of forecasted returns, and target price revisions. We identify reiteration recommendations but with reports that imply future revisions and show they are significantly positively associated with short-term market reactions. Upgrades preceded by implied revisions are associated with attenuated market reactions and a lower likelihood of being classified as influential, consistent with investors preempting returns to the subsequent upgrades. Our model is better at predicting upgrades than downgrades and has performance commensurate with prediction models in other settings.
@@ -31,6 +33,8 @@ On average, analysts’ stock recommendation revisions have immediate effects on
 Presented at the 2021 BYU Accounting Research Symposium, 2022 FARS Midyear Meeting (by coauthor), 2022 3rd Analyst Research Conference (by coauthor), Chinese University of Hong Kong (by coauthor), Deakin University (by coauthor), Emory University (by coauthor), Rice University (by coauthor), and the University of South Florida (by coauthor).
 
 ### *"The Credibility of Complex and Evasive Answers in Conference Calls: a Real-time Market Response Approach"* with Yang Cao and Miao Liu
+
+Scheduled presentation: 2024 FARS Midyear Meeting
 
 Paper available upon request.
 
