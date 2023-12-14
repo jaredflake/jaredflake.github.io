@@ -7,7 +7,7 @@ author_profile: true
 
 ### *"Why Do Managers Interact with Unfavorable Analysts during Earnings Calls?"* (JMP)
 
-Revise and resubmit at the *Journal of Accounting Research*
+*Revise and Resubmit* at the *Journal of Accounting Research*
 
 Paper available upon request.
 
