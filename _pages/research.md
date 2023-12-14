@@ -14,6 +14,7 @@ Paper available upon request.
 Managers prioritize favorable analysts during earnings calls, reinforcing analysts’ incentives for optimism. However, managers also interact with unfavorable analysts, and this study examines why managers engage in these interactions by exploring their consequences. I propose two non-mutually exclusive possibilities, that managers (1) directly address concerns of unfavorable analysts and (2) develop a reputation for credibility. I document evidence consistent with both. First, unfavorable analysts attenuate their negative views after interacting with managers. Second, price responses to management forecasts are stronger for managers who regularly interact with unfavorable analysts, consistent with enhanced credibility of these managers. Also, because not all managers forecast, I use peer firm restatements as exogenous shocks to perceptions of accounting quality and find that nonrestating firms with managers who regularly interact with unfavorable analysts experience attenuated negative returns relative to other nonrestating peers. Overall, the findings are consistent with managers’ interactions with unfavorable analysts providing significant benefits.
 
 Dissertation Committee: Professors Mark Bradshaw (chair), Lian Fen Lee, and Miao Liu
+
 Presented at Indiana University, Boston College, the 2023 AAA Annual Meeting, BYU Accounting Research Symposium 2022, and the AAA/Deloitte Foundation/J Michael Cook 2022 Doctoral Consortium
 
 <!-- *Available upon request* -->
