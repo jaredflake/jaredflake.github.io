@@ -7,8 +7,9 @@ author_profile: true
 
 ### Visiting Assistant Professor (Northeastern University)
 
+* Average Rating of 4.4 of 5.0
+
 Financial Accounting (ACCT 1201) - 2 Sections Fall 2023
-* Rating of 4.4 of 5.0
 
 Managerial Accounting (ACCT 2301) - 1 Section Fall 2023, 2 Sections Spring 2024
 
