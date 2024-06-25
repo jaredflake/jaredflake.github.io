@@ -31,3 +31,6 @@ I have found the fowllowing resources from others useful in my research. In case
 
 #### *Hoberg-Phillips Data Library*
 <a href="https://hobergphillips.tuck.dartmouth.edu/" target="_blank">Hoberg-Phillips Data</a>
+
+#### *Use SAS Macros on WRDS* by Mingze Gao
+<a href="https://mingze-gao.com/posts/use-sas-macros-on-wrds/" target="_blank">Using SAS Macros on WRDS</a>

@@ -35,7 +35,7 @@ Paper available upon request.
 
 ### *"The Credibility of Complex and Evasive Answers in Conference Calls: a Real-time Market Response Approach"* with Yang Cao and Miao Liu
 
-Scheduled presentation: 2024 FARS Midyear Meeting
+Presented at 2024 FARS Midyear Meeting, Scheduled presentation at 2024 AAA Annual Meeting
 
 We study how managers can credibly communicate complex or the absence of information during earnings calls. We match granular time-stamped earnings call conversations with high-frequency trading data, resulting in a novel dataset that enables us to examine immediate real-time market reactions to distinct linguistic features within conversations between managers and analysts. We find that improved agency considerations, characterized by higher manager ownership and lower financial distress, bolsters managers' credibility when disseminating complex information. However, these measures offer limited efficacy in conveying non-information. Conversely, establishing a transparent disclosure reputation — evidenced by more accurate management forecasts and proactively engaging with bearish analysts — proves to be a robust alternative strategy for establishing credibility in communicating both complex and absent information. Our study sheds light on strategies that managers can adopt to ensure credible communication within the dynamic context of real-time scenarios.
 
