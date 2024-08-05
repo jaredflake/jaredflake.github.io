@@ -13,7 +13,7 @@ locale                   : "en-US"
 title                    : "Home"
 title_separator          : "-"
 name                     : &name "Jared Flake"
-description              : &description "Visiting Assistant Professor in Accounting - Northeastern University, D'Amore-McKim School of Business"
+description              : &description "Assistant Professor in Accounting - Boise State University, College of Business and Economics"
 url                      : https://jaredflake.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "j4ffle.github.io"
@@ -88,13 +88,13 @@ analytics:
 author:
   name             : "Jared Flake"
   avatar           : "jared.jpg" 
-  bio              : "Visiting Assistant Professor in Accounting @ Northeastern University"
+  bio              : "Assistant Professor in Accounting @ Boise State University"
   location         : "Boston, MA"
   employer         :
-  university       : "Northeastern University"
+  university       : "Boise State University"
   pubmed           : #""
   googlescholar    : #""
-  email            : "j.flake@northeastern.edu"
+  email            : "jaredflake@boisestate.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -122,7 +122,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  school           : "https://damore-mckim.northeastern.edu/people/jared-flake/"
+  school           : "https://www.boisestate.edu/cobe-accountancy/department-of-accountancy/directory/jared_flake/"
 
 
 # Reading Files
