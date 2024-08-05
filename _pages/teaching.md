@@ -5,6 +5,10 @@ permalink: /teaching/
 author_profile: true
 ---
 
+### Assistant Professor (Boise State University)
+
+Managerial Accounting (ACCT 206) - 2 Sections Fall 2024, 1 Section Spring 2024
+
 ### Visiting Assistant Professor (Northeastern University)
 
 * Average Rating of 4.4 of 5.0
