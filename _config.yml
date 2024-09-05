@@ -9,7 +9,11 @@
 # theme: minimal-mistakes-jekyll
 # minimal_mistakes_skin: "air"
 
+# theme: minimal-mistakes-jekyll
+# minimal_mistakes_skin: "air"
+
 locale                   : "en-US"
+title                    : "Home"
 title                    : "Home"
 title_separator          : "-"
 name                     : &name "Jared Flake"
@@ -18,6 +22,7 @@ url                      : https://jaredflake.com # the base hostname & protocol
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "j4ffle.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+# logo                     : "favicon.ico"
 # logo                     : "favicon.ico"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -52,6 +57,7 @@ staticman:
         format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
 atom_feed:
   path                   : # blank (default) uses feed.xml
+
 
 
 # SEO Related
@@ -108,6 +114,7 @@ author:
   keybase          :
   instagram        :
   impactstory      : # "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      : # "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : # "jaredflake"
   orcid            : # "http://orcid.org/yourorcidurl"
@@ -116,6 +123,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
+  twitter          : # "replacethistwitterhandle"
   twitter          : # "replacethistwitterhandle"
   vine             :
   weibo            :
@@ -263,6 +271,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
+timezone: America/New_York # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone: America/New_York # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
