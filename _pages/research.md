@@ -5,15 +5,15 @@ permalink: /research/
 author_profile: true
 ---
 
-### *"Why Do Managers Interact with Unfavorable Analysts during Earnings Calls?"* (JMP)
+### *"To Interact or Not? On the Benefits of Interacting with Unfavorable Analysts during Earnings Calls?"* (JMP)
 
 *Revise and Resubmit* at the *Journal of Accounting Research*
 
-Managers prioritize favorable analysts during earnings calls, reinforcing analysts’ incentives for optimism. However, managers also interact with unfavorable analysts, and this study examines why managers engage in these interactions by exploring their consequences. I propose two non-mutually exclusive possibilities, that managers (1) directly address concerns of unfavorable analysts and (2) develop a reputation for credibility. I document evidence consistent with both. First, unfavorable analysts attenuate their negative views after interacting with managers. Second, price responses to management forecasts are stronger for managers who regularly interact with unfavorable analysts, consistent with enhanced credibility of these managers. Also, because not all managers forecast, I use peer firm restatements as exogenous shocks to perceptions of accounting quality and find that nonrestating firms with managers who regularly interact with unfavorable analysts experience attenuated negative returns relative to other nonrestating peers. Overall, the findings are consistent with managers’ interactions with unfavorable analysts providing significant benefits.
+Managers prioritize favorable analysts during earnings calls, reinforcing analysts’ incentives for optimism. However, managers also frequently interact with unfavorable analysts, and this study examines the determinants and benefits of these interactions. I find that managers interact more with unfavorable analysts when compelled to do so. I then examine two likely benefits of these interactions. First, unfavorable analysts attenuate their negative views after interacting with managers. Second, price reactions to management forecasts are stronger for managers who regularly interact with unfavorable analysts, consistent with enhanced reporting credibility. Finally, using peer firm restatements as exogenous shocks to investor’s perceptions of accounting quality, I find that nonrestating firms with managers who regularly interact with unfavorable analysts experience attenuated negative returns relative to other nonrestating peers. Overall, the empirical evidence indicates firms experience significant benefits when managers interact with unfavorable analysts and these benefits persist amongst compelled and voluntary interactions.
 
 Dissertation Committee: Professors Mark Bradshaw (chair), Lian Fen Lee, and Miao Liu
 
-Presented at Indiana University, Boston College, the 2023 AAA Annual Meeting, BYU Accounting Research Symposium 2022, and the AAA/Deloitte Foundation/J Michael Cook 2022 Doctoral Consortium
+Presented at Boise State University, Indiana University, Boston College, the 2023 AAA Annual Meeting, 2022 BYU Accounting Research Symposium, and the AAA/Deloitte Foundation/J Michael Cook 2022 Doctoral Consortium
 
 Paper available upon request
 
@@ -23,33 +23,37 @@ Paper available upon request
 -->
 <!-- [Download]() -->
 
-### *"Consequences of Implied Analyst Recommendation Revisions in Reiteration Research Reports"* with Mark Bradshaw, Chad Hamm, and Mark Piorkowski
-
-Under review at *The Journal of Accounting Research*
-
-Over 90% of analysts’ stock recommendations reiterate prior recommendations, but most research on recommendations examines the small subset of actual revisions. Analysts are reluctant to revise recommendations and other forecasts, either to placate managers or avoid a pattern of ‘see-saw’ research outputs. We predict that an analyst may signal a change in sentiment without actually revising the outstanding recommendation. Indeed, we show that reiterations we identify as “implied recommendation revisions” predict actual future recommendation revisions. The market impounds such information into prices—implied upgrades (downgrades) are positively (negatively) associated with returns centered on the report date, and price reactions to actual recommendation revisions are attenuated when preceded by an implied recommendation revision. We also show that sophisticated investors are more likely to trade after implied recommendation revisions, whereas retail traders tend to trade around actual recommendation revisions. Overall, our evidence provides extended insight into analysts’ research, the dynamics of recommendations, and the market consequences of both recommendation reiterations and revisions.
-
-Presented at the 2021 BYU Accounting Research Symposium, 2022 FARS Midyear Meeting*, 2022 3rd Analyst Research Conference*, Chinese University of Hong Kong*, Deakin University*, Emory University*, Rice University*, and the University of South Florida*.
-
-* Represents presentations by a coauthor
-
-Paper available upon request.
-
 ### *"The Credibility of Non-Disclosure: Evidence from Real-time Market Response to Non-Answers in Conference Calls"* with Yang Cao and Miao Liu
+
+*Revise and Resubmit* at the *The Accounting Review*
 
 Managers sometimes give non-disclosure to investors despite their best intentions, either due to a lack of information or substantial proprietary costs. However, it is difficult for investors to distinguish these managers from those hiding negative news. This paper investigates whether managers can establish a transparent disclosure reputation to credibly communicate the absence of information, using non-answers during earnings calls as a setting. By matching granular, time-stamped earnings call conversations with high-frequency trading data, we create a novel dataset that examines immediate real-time market reactions to non-answers given by managers. Additionally, we leverage large language models (LLMs) to build a database of strategies that managers adopt to establish a transparent disclosure reputation, including providing detailed elaboration when issuing negative earnings guidance and proactively interacting with bearish analysts. We find that these disclosure strategies bolster managers’ credibility when communicating the absence of information. Our study highlights the importance of disclosure strategies that managers can adopt to ensure credible communication within the dynamic context of real-time scenarios.
 
-Presented at 2024 FARS Midyear Meeting, scheduled presentation at 2024 AAA Annual Meeting*
+Presented at 2024 AAA Annual Meeting* and 2024 FARS Midyear Meeting
 
 * Represents presentations by a coauthor
 
 Paper available upon request
 
-### *"Real Effects of Analysts’ Information Role: Evidence from M&As"* with Farzana Afrin and Jalal Sani
+### *"Consequences of Implied Analyst Recommendation Revisions in Reiteration Research Reports"* with Mark Bradshaw, Chad Hamm, and Mark Piorkowski
 
-Completing an M&A deal with negative announcement returns can have significant negative consequences for the manager (e.g., forced turnover), yet, managers complete more than 90% of such deals. We build on prior research to propose two explanations and examine the role of analyst research in each explanation,  using analyst distraction by exploiting exogenous shocks to other firms the analyst follows as an inverse measure for analyst research. First, investors may not possess all relevant information at the deal announcement and thus may revise their opinion upwards post-announcement, lowering managerial costs of deal completion. Under this explanation, analysts can play an informational role where they provide investors with new information. We find that analyst research prompts investors to revise their opinion upwards, increasing deal completion likelihood, specifically when the deal quality is high and analysts are more informed. Second, inefficient external monitoring can enable managers to pursue value-destroying deals. Under this explanation, we find analysts act as a monitoring mechanism by providing negative information about the deal, decreasing deal completion likelihood, especially when agency friction is high. The dual roles of analysts have opposing effects, and we document that their informational role dominates the monitoring role. Overall, our findings highlight the significant impact of analysts’ informational role on managerial real investment decisions.
+Preparing for submission to *The Accounting Review*
 
-Presented at Boston College 2022, scheduled presentation at 5th Analyst Research conference (2024)
+Over 90% of analysts’ stock recommendations reiterate prior recommendations, but most research on recommendations examines the small subset of actual revisions. Analysts are reluctant to revise recommendations and other forecasts, either to placate managers or avoid a pattern of ‘see-saw’ research outputs. We predict that an analyst may signal a change in sentiment without actually revising the outstanding recommendation. Indeed, we show that reiterations we identify as “implied recommendation revisions” predict actual future recommendation revisions. The market impounds such information into prices—implied upgrades (downgrades) are positively (negatively) associated with returns centered on the report date, and price reactions to actual recommendation revisions are attenuated when preceded by an implied recommendation revision. We also show that sophisticated investors are more likely to trade after implied recommendation revisions, whereas retail traders tend to trade around actual recommendation revisions. Overall, our evidence provides extended insight into analysts’ research, the dynamics of recommendations, and the market consequences of both recommendation reiterations and revisions.
+
+Presented at The Ohio State University*, the University of South Florida*, Rice University*, Emory University*, Deakin University*, Chinese University of Hong Kong*, 2022 3rd Analyst Research Conference*, 2022 FARS Midyear Meeting*, and the 2021 BYU Accounting Research Symposium.
+
+* Represents presentations by a coauthor
+
+Paper available upon request.
+
+### *"Real Effects  of Shareholder Processing Costs on M&As and Financial Analysts’ Informational Role"* with Farzana Afrin and Jalal Sani
+
+Preparing for submission
+
+Completing an M&A deal with negative announcement returns can have negative consequences for the manager (e.g., forced turnover). Yet, managers complete 91% of such deals. Prior research interprets these deals as evidence of agency motives. We propose a complementary explanation and examine the role of analyst research. We posit due to information processing costs, shareholders may not possess all relevant information at the deal announcement and may revise their opinion upwards post-announcement. This reduces costs of deal completion imposed on the manager and increases the likelihood of deal completion. Under this explanation, analysts play an informational role by lowering processing costs. We find that analyst research prompts the acquirer’s shareholders to revise their opinion upwards and increases deal completion likelihood, specifically when (i) shareholders are less informed, (ii) the deal quality is relatively high, (iii) analysts are more informed, (iv) agency motivation for completing a deal is low, and (v) analysts are not affiliated with the acquirer. Overall, our findings highlight the significant impact of analysts’ informational role on managerial real investment decisions.
+
+Presented at the 2024 BYU Accounting research Symposium, 5th Analyst Research conference (2024), and Boston College 2022.
 
 Paper available upon request
 
