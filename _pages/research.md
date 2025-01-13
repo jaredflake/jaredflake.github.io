@@ -33,6 +33,16 @@ Presented at 2024 AAA Annual Meeting* and 2024 FARS Midyear Meeting
 
 * Represents presentations by a coauthor
 
+Paper available at: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4955634
+
+### *"The Effect of Analyst Research on Managers’ Merger and Acquisition Decisions: Revising Shareholder Opinions"* with Farzana Afrin and Jalal Sani
+
+Preparing for submission to the *Journal of Accounting Research*
+
+Completing an acquisition with negative announcement returns can have adverse consequences for managers (e.g., forced turnover). Yet, managers complete 91% of such deals. Prior research interprets these deals as evidence of agency motives. We propose a complementary explanation and examine the role of analyst research. We posit that, because of the costs of acquiring and processing information, shareholders may not possess all relevant information at the deal announcement date and subsequently revise their opinions. These revised opinions affect managers’ perceptions of the costs of deviating from shareholders’ initial opinions and their decision to complete the deal. While the effect of analyst research on the likelihood of deal completion is ex-ante unclear, our results suggest that analyst research prompts acquirers’ shareholders to revise their opinions upward, increasing the likelihood of deal completion. This effect is stronger when (i) shareholders are less informed, (ii) the deal quality is relatively high, (iii) analysts are more informed, (iv) agency motivation for completing a deal is lower, and (v) analysts are not affiliated with the acquirer. Overall, our findings highlight the role of analyst research in motivating investors to revise their opinions, thereby influencing corporate investment decisions.
+
+Presented at the 2024 BYU Accounting research Symposium, 5th Analyst Research conference (2024), and Boston College 2022.
+
 Paper available upon request
 
 ### *"Consequences of Implied Analyst Recommendation Revisions in Reiteration Research Reports"* with Mark Bradshaw, Chad Hamm, and Mark Piorkowski
@@ -46,16 +56,6 @@ Presented at The Ohio State University*, the University of South Florida*, Rice 
 * Represents presentations by a coauthor
 
 Paper available upon request.
-
-### *"Real Effects  of Shareholder Processing Costs on M&As and Financial Analysts’ Informational Role"* with Farzana Afrin and Jalal Sani
-
-Preparing for submission
-
-Completing an M&A deal with negative announcement returns can have negative consequences for the manager (e.g., forced turnover). Yet, managers complete 91% of such deals. Prior research interprets these deals as evidence of agency motives. We propose a complementary explanation and examine the role of analyst research. We posit due to information processing costs, shareholders may not possess all relevant information at the deal announcement and may revise their opinion upwards post-announcement. This reduces costs of deal completion imposed on the manager and increases the likelihood of deal completion. Under this explanation, analysts play an informational role by lowering processing costs. We find that analyst research prompts the acquirer’s shareholders to revise their opinion upwards and increases deal completion likelihood, specifically when (i) shareholders are less informed, (ii) the deal quality is relatively high, (iii) analysts are more informed, (iv) agency motivation for completing a deal is low, and (v) analysts are not affiliated with the acquirer. Overall, our findings highlight the significant impact of analysts’ informational role on managerial real investment decisions.
-
-Presented at the 2024 BYU Accounting research Symposium, 5th Analyst Research conference (2024), and Boston College 2022.
-
-Paper available upon request
 
 <!-- [View in Browser](https://drive.google.com/file/d/1FP1Nj2xefm-u8ycFux1_6bbDXm2ay3Du/view?usp=sharing) -->
 
